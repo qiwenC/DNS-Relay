@@ -1,0 +1,4 @@
+10.3.9.254 www.bupt.edu.cn
+42.81.12.126 www.sina.com.cn
+0.0.0.0 test0
+0.0.0.0 www.666.com
