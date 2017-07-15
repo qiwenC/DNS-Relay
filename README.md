@@ -2,8 +2,6 @@
 
 An implementation of DNS relay on Linux
 
-## Requirement
-
 ## Environment configuration
 
 ### nslookup
@@ -30,7 +28,7 @@ To compile the program, enter `gcc -o dnsrelay dnsrelay.c`
 
 Then, under the super model, enter `./dnsrelay` to start the program
 
-### troubleshoot
+## troubleshoot
 
 - If the dns address cannot save or bind fail, check whether the system is under the super model
 - When using `vi` to edit the file, using `x` to delete character, `i` to add new information and `:wq` to quit and save 
